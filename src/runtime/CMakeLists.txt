@@ -39,6 +39,7 @@ set(RUNTIME_CPP
     linux_arm_cpu_features
     linux_clock
     linux_host_cpu_count
+    linux_x86_cpu_features
     linux_yield
     metal
     metal_objc_arm
