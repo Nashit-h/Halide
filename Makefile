@@ -861,6 +861,7 @@ RUNTIME_CPP_COMPONENTS = \
   linux_clock \
   linux_host_cpu_count \
   linux_yield \
+  linux_x86_cpu_features \
   metal \
   metal_objc_arm \
   metal_objc_x86 \
